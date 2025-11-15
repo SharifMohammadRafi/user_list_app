@@ -1,4 +1,4 @@
-# User Browser App (Flutter)
+# User Browser (Flutter)
 
 A simple Flutter app demonstrating Clean Architecture, Riverpod state management, API pagination, search, offline caching, pull-to-refresh, and robust error handling.
 
