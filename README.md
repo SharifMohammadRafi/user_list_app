@@ -36,5 +36,7 @@ A simple Flutter app demonstrating Clean Architecture, Riverpod state management
 ## Tests (optional)
 - You can add unit tests for the repository and widget tests for the list page.
 
+## UI
+
 ![WhatsApp Image 2025-11-16 at 2 22 05 AM](https://github.com/user-attachments/assets/73aaed61-2838-4b53-acf3-ff1f70be3f20)
 ![WhatsApp Image 2025-11-16 at 2 22 05 AM (1)](https://github.com/user-attachments/assets/394b2236-9df3-425f-b5c6-f3fc7251bba9)
